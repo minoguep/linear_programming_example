@@ -3,7 +3,7 @@ cycler==0.10.0
 docutils==0.16
 kiwisolver==1.2.0
 matplotlib==3.3.0
-numpy==1.19.0
+numpy==1.22.0
 Pillow==7.2.0
 PuLP==2.2
 pyparsing==2.4.7
